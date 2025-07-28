@@ -7,6 +7,7 @@ LangChain ve OpenAI GPT modeli kullanılarak geliştirilmiş bir çeviri uygulam
 1. `.env` dosyasına OpenAI API ve Langchain API anahtarlarınızı ekleyin:
 
 OPENAI_API_KEY=
+
 LANGCHAIN_API_KEY=
 
 2. Gerekli Python paketlerini yükleyin:
