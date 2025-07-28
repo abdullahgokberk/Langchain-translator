@@ -13,6 +13,7 @@ LANGCHAIN_API_KEY=
 2. Gerekli Python paketlerini yükleyin:
 
 pip install -r requirements.txt
+
 3. Uygulamayı çalıştırın:
 `/chain/invoke` endpoint'ine şu formatta POST isteği gönderin:
 ```json
